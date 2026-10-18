@@ -1,0 +1,10 @@
+# 图片素材（版权原因不入库）
+assets/
+docs/
+
+# Python
+__pycache__/
+*.pyc
+
+# 本机日志
+*.log
